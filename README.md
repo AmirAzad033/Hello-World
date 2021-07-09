@@ -24,6 +24,7 @@
 <li><a href="https://github.com/AmirAzad033/Hello-World/tree/main/Elixir">Elixir</a></li>
 <hr>
 <p>F</p>
+<li><a href="https://github.com/AmirAzad033/Hello-World/tree/main/Fsharp">F#</a></li>
 <hr>
 <p>G</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Go">Go</a></li>
