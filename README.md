@@ -21,6 +21,7 @@
 <p>D</p>
 <hr>
 <p>E</p>
+<li><a href="https://github.com/AmirAzad033/Hello-World/tree/main/Elixir">Elixir</a></li>
 <hr>
 <p>F</p>
 <hr>
